@@ -35,4 +35,4 @@
 [![RiotGames](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://www.riotgames.com/pt-br)
 <br/>
 
-Apaixonado por tecnologia, inovação, programação e Cloud.
+Apaixonado por Tecnologia, Inovação, Programação e Cloud.
