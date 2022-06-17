@@ -1,0 +1,17 @@
+import pyautogui
+
+def position():
+    pos = pyautogui.locateCenterOnScreen('play.png', confidence = 0.9)
+    if position != None:
+        pyautogui.click(pos)
+        print('Found')
+        return True
+    else:
+        print('Not Found')
+    return False
+
+def looping():
+    while True:
+        if position():
+            print('Match Accept')
+        break
