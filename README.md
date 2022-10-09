@@ -1,12 +1,14 @@
 ### Olá, eu sou o João Vitor Ferreti Lippi 🖐
 
 <br/>
+
 ### Contatos:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-ferreti-lippi-0576091bb/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ferreti_lippi)
 
 ### Interesse em: 
+
 <div style="display: inline_block"><br/>
       <img align="center" alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /> 
        <img align="center" alt="azure" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
@@ -35,4 +37,4 @@
 <br/>
 
 
-Apaixonado por Tecnologia, Inovação, Programação e Cloud.
+#BusinessInteligence #Sap #CloudComputing 
