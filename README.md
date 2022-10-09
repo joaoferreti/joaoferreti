@@ -9,7 +9,7 @@
 
 ### Interesse em: 
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
       <img align="center" alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /> 
        <img align="center" alt="azure" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
       <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
@@ -19,7 +19,7 @@
 
 ### Plataformas de Estudo:
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
     <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
     <img align="center" alt="DataCamp" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />
     <img align="center" alt="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
@@ -29,7 +29,7 @@
 
 ### IDE's
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
     <img align="center" alt="VisualStudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
      <img align="center" alt="VisualStudioCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
      <img align="center" alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
