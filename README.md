@@ -8,7 +8,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_200_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 Estou em constante processo de aprendizado, em especial, acerca das Tecnologias, Ferramentas e Metodologias aplicadas em benefício da Gestão Empresarial.
+- 🚀 Estou em constante processo de aprendizado, em especial, acerca das Tecnologias, Ferramentas e Metodologias aplicadas em benefício da Gestão Empresarial.
 
 - 📫 ***Principal E-mail:*** **joaoferretilippi@gmail.com**
 
