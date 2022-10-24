@@ -1,39 +1,45 @@
-### Olá, eu sou o João Vitor Ferreti Lippi 🖐
+<h1 align="center">Olá 👋, Eu sou João Vitor Ferreti Lippi</h1>
+<h3 align="center">Aprendiz MRP - Supply Chain | Profissional SAP em Formação | Estudante de Análise e Desenvolvimento de Sistemas.</h3>
 
-<br/>
+<br>
 
-### Contatos:
+<br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-ferreti-lippi-0576091bb/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ferreti_lippi)
-<br/>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-### Interesse em: 
 
-<div style="display: inline_block">
-      <img align="center" alt="SAP" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /> 
-       <img align="center" alt="azure" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
-      <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
-      <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-   
-</div>
-<br/>
+- 🌱 Estou em constante processo de aprendizado, em especial, acerca das Tecnologias, Ferramentas e Metodologias aplicadas em benefício da Gestão Empresarial.
 
-### Plataformas de Estudo:
+- 📫 Principal E-mail: **joaoferretilippi@gmail.com**
 
-<div style="display: inline_block">
-    <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
-    <img align="center" alt="DataCamp" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />
-    <img align="center" alt="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
-     
-</div>
-<br/>
+- 🎯 **SAP ERP** - SAP S/4HANA | SAP ACTIVATE | SAP HANA |
 
-### IDE's
+<br>
 
-<div style="display: inline_block">
-    <img align="center" alt="VisualStudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-     <img align="center" alt="VisualStudioCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-     <img align="center" alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-</div>
-<br/>
+<h3 align="left"><b>Minhas Redes:</b></h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-ferreti-lippi-0576091bb/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="João Vitor Ferreti Lippi" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100085122187248" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="João Vitor Fererti Lippi" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/joaovitor_lippi/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="joaovitor_lippi" height="30" width="40" /></a>
+ <a href="https://twitter.com/ferreti_lippi" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="ferreti_lippi" height="30" width="40" /></a>
+</p>
+
+<br>
+
+<h3 align="left"><b>Principais Ferramentas e Linguagens:</b></h3>
+<p align="left"> <a href="https://www.sap.com/brazil/index.html?url_id=auto_hp_redirect_brazil" target="_blank" rel="noreferrer"> <img
+      src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg"
+      alt="sap" width="90" height="90" /> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
+      alt="python" width="70" height="70" /> </a> </p>
+
+<br>
+
