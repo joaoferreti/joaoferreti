@@ -10,7 +10,7 @@
 
 - 🌱 Estou em constante processo de aprendizado, em especial, acerca das Tecnologias, Ferramentas e Metodologias aplicadas em benefício da Gestão Empresarial.
 
-- 📫 Principal E-mail: **joaoferretilippi@gmail.com**
+- 📫 ***Principal E-mail:*** **joaoferretilippi@gmail.com**
 
 - 🎯 **SAP ERP** - SAP S/4HANA | SAP ACTIVATE | SAP HANA |
 
