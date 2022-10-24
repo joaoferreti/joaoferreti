@@ -16,7 +16,7 @@
 
 <br>
 
-<h3 align="left"><b>Minhas Redes:</b></h3>
+<h3 align="center"><b>Minhas Redes:</b></h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-ferreti-lippi-0576091bb/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -34,7 +34,7 @@
 
 <br>
 
-<h3 align="left"><b>Principais Ferramentas e Linguagens:</b></h3>
+<h3 align="center"><b>Principais Ferramentas e Linguagens:</b></h3>
 <p align="left"> <a href="https://www.sap.com/brazil/index.html?url_id=auto_hp_redirect_brazil" target="_blank" rel="noreferrer"> <img
       src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg"
       alt="sap" width="90" height="90" /> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
