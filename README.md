@@ -39,7 +39,7 @@
       src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg"
       alt="sap" width="90" height="90" /> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      alt="python" width="60" height="60" /> </a> </p>
+      alt="python" width="60" height="90" /> </a> </p>
 
 <br>
 
