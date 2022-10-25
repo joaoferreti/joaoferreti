@@ -5,10 +5,8 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_200_kxa883sd.gif" alt="adam-pw" /></p>
 
-
-- 🚀 Estou em constante processo de aprendizado, em especial, acerca das Tecnologias, Ferramentas e Metodologias aplicadas em benefício da Gestão Empresarial.
+- 🚀 Em constante processo de aprendizado, especialmente, acerca das Tecnologias, Ferramentas e Metodologias aplicadas em benefício da Gestão Empresarial.
 
 - 📫 ***Principal E-mail:*** **joaoferretilippi@gmail.com**
 
@@ -16,7 +14,7 @@
 
 <br>
 
-<h3 align="left"><b>Minhas Redes:</b></h3>
+<h3 align="left"><u>Minhas Redes:</u></h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-ferreti-lippi-0576091bb/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
