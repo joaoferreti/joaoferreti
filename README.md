@@ -1,16 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou João Vitor Ferreti Lippi</h1>
-<h3 align="center">Aprendiz MRP - Supply Chain | Profissional SAP em Formação | Estudante de Análise e Desenvolvimento de Sistemas.</h3>
+<h3 align="center">MRP Analyst - Ypê</h3>
 
 <br>
-
+Processing and analysis of production and inventory data Forecasting of future demands. Continuous optimization of MRP processes by implementing best practices. Preparation of detailed reports on MRP performance and communication of results to stakeholders. Collaboration with production, logistics, purchasing, finance, and marketing teams to align objectives and goals.
 <br>
 
-
-- 🚀 Em constante processo de aprendizado, especialmente, acerca das Tecnologias, Ferramentas e Metodologias aplicadas em benefício da Gestão Empresarial.
-
-- 📫 ***Principal E-mail:*** **joaoferretilippi@gmail.com**
-
-- 🎯 **SAP ERP** - SAP S/4HANA | SAP ACTIVATE | SAP HANA |
+**joaoferretilippi@gmail.com**
 
 <br>
 
