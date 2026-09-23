@@ -1,6 +1,6 @@
 <!-- ============================================================
      GITHUB PROFILE — João Vitor Ferreti Lippi | SAP IBP Consultant
-     Remaining placeholders: joaoferreti, LINK_CREDLY, LINK_CV_PT, LINK_CV_EN, SETOR
+     Remaining placeholders: [LINK_USER](joaoferreti), [LINK_CREDLY](https://www.credly.com/badges/d9bc8668-8192-402f-af12-b6ebb3bb1437/public_url)
      ============================================================ -->
 
 <p align="center">
@@ -91,7 +91,7 @@ Conhecimento prático no contexto de integração com o IBP: projetos, tasks e d
 
 ### Consultor SAP IBP — Exed Consulting
 `01/2026 – atual`
-- Projeto SAP IBP no setor de SETOR, com foco em Demand Planning e S&OP
+- Projeto SAP IBP com foco em Demand Planning e S&OP
 - Reconfiguração do cálculo de acuracidade (WMAPE/BIAS), alterando a agregação de centro para segmento × mercado para alinhar o KPI à visão de gestão do cliente
 - Diagnóstico de consistência e qualidade de dados mestres da Planning Area
 
@@ -203,7 +203,7 @@ Hands-on knowledge in the context of IBP integration: projects, tasks and data f
 
 ### SAP IBP Consultant — Exed Consulting
 `01/2026 – present`
-- SAP IBP project in the SETOR industry, focused on Demand Planning and S&OP
+- SAP IBP project focused on Demand Planning and S&OP
 - Reconfigured forecast accuracy calculation (WMAPE/BIAS), moving aggregation from plant to segment × market to align the KPI with the client's management view
 - Consistency and quality diagnosis of Planning Area master data
 
@@ -267,9 +267,6 @@ Student representation and deliberation on the institution's academic, administr
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0A2540&title_color=00B4D8&icon_color=0070F2&text_color=ffffff" alt="Stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=0A2540&ring=0070F2&fire=00B4D8&currStreakLabel=00B4D8&sideLabels=ffffff&dates=ffffff&stroke=0070F2" alt="Streak"/>
 </p>
-
-<p align="center">
-  <i>“A dúvida é o princípio da sabedoria.” · “Doubt is the beginning of wisdom.” — Aristóteles</i>
 </p>
 
 <p align="center">
