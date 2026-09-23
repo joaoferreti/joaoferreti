@@ -82,18 +82,21 @@ Conhecimento prático no contexto de integração com o IBP: projetos, tasks e d
 
 ## 📊 Dados aplicados ao Planejamento
 
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Jupyter), **R** e **SQL** para tratamento de grandes volumes, estatística e modelos preditivos
+- **Analytics Stories**
+- **Python**, **R** e **SQL** para tratamento de grandes volumes, estatística e modelos preditivos
 - **Power BI** (DAX, dashboards dinâmicos) e **Excel avançado**
 - **Lean Six Sigma Green Belt**: melhoria contínua orientada por dados
-- Noções de desenvolvimento SAP no BTP (Data Dictionary, telas de seleção, debugging)
 
 ## 💼 Experiência
 
 ### Consultor SAP IBP — Exed Consulting
 `01/2026 – atual`
-- Projeto SAP IBP com foco em Demand Planning e S&OP
-- Reconfiguração do cálculo de acuracidade (WMAPE/BIAS), alterando a agregação de centro para segmento × mercado para alinhar o KPI à visão de gestão do cliente
-- Diagnóstico de consistência e qualidade de dados mestres da Planning Area
+- **Modelagem & Configuração:** configuração de Planning Areas, dados mestres, atributos, key figures, operadores de planejamento e application jobs
+- **Forecast & KPIs:** parametrização de modelos estatísticos de previsão e de indicadores de acuracidade (WMAPE, BIAS) em diferentes níveis de agregação, alinhados à visão de gestão do cliente
+- **Integração & Dados:** suporte às integrações S/4HANA ↔ IBP, monitoramento de cargas via CI-DS e diagnóstico de consistência e qualidade de dados mestres
+- **Experiência do Planejador:** construção de planning views e templates no Excel Add-in, dashboards, alertas e apps Fiori
+- **Sustentação:** atendimento de chamados, análise de causa raiz, testes e documentação funcional
+- **Capacitação:** treinamento de key users e apoio à adoção da solução pelos planejadores
 
 ### Analista de MRP — Ypê
 `03/2023 – 12/2025` · Amparo, SP
@@ -111,6 +114,7 @@ Conhecimento prático no contexto de integração com o IBP: projetos, tasks e d
 | Certificação | Emissor | Status |
 |---|---|---|
 | **SAP Certified – SAP Integrated Business Planning** (C_IBP_2601) | SAP | ✅ 09/2026 • [Credencial](https://www.credly.com/badges/d9bc8668-8192-402f-af12-b6ebb3bb1437/public_url) |
+| **SAP Certified - Integration Developer** (C_CPI) | SAP | 📚 Em preparação |
 | **Positioning SAP Business AI Platform** (C_BCBTP) | SAP | 📚 Em preparação |
 | **Lean Six Sigma – Green Belt** | FM2S | ✅ |
 | **Power BI – Avançado** | Udemy | ✅ |
@@ -194,18 +198,21 @@ Hands-on knowledge in the context of IBP integration: projects, tasks and data f
 
 ## 📊 Data-Driven Planning
 
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn, Jupyter), **R** and **SQL** for large-volume data processing, statistics and predictive models
+- **Analytics Stories**
+- **Python**,**R** and **SQL** for large-volume data processing, statistics and predictive models
 - **Power BI** (DAX, dynamic dashboards) and **advanced Excel**
 - **Lean Six Sigma Green Belt**: data-driven continuous improvement
-- Foundations of SAP development on BTP (Data Dictionary, selection screens, debugging)
 
 ## 💼 Experience
 
 ### SAP IBP Consultant — Exed Consulting
 `01/2026 – present`
-- SAP IBP project focused on Demand Planning and S&OP
-- Reconfigured forecast accuracy calculation (WMAPE/BIAS), moving aggregation from plant to segment × market to align the KPI with the client's management view
-- Consistency and quality diagnosis of Planning Area master data
+- **Modeling & Configuration:** configuring Planning Areas, master data, attributes, key figures, planning operators and application jobs
+- **Forecasting & KPIs:** setting up statistical forecast models and forecast accuracy KPIs (WMAPE, BIAS) at different aggregation levels, aligned with the client's management view
+- **Integration & Data:** supporting S/4HANA ↔ IBP integrations, monitoring CI-DS loads and diagnosing master data consistency and quality
+- **Planner Experience:** building Excel Add-in planning views and templates, dashboards, alerts and Fiori apps
+- **Support:** incident handling, root cause analysis, testing and functional documentation
+- **Enablement:** key user training and driving planner adoption of the solution
 
 ### MRP Analyst — Ypê
 `03/2023 – 12/2025` · Amparo, Brazil
@@ -222,7 +229,8 @@ Hands-on knowledge in the context of IBP integration: projects, tasks and data f
 
 | Certification | Issuer | Status |
 |---|---|---|
-| **SAP Certified – SAP Integrated Business Planning** (C_IBP_2601) | SAP | ✅ 09/2026 • [Credential](LINK_CREDLY) |
+| **SAP Certified – SAP Integrated Business Planning** (C_IBP_2601) | SAP | ✅ 09/2026 • [Credential](https://www.credly.com/badges/d9bc8668-8192-402f-af12-b6ebb3bb1437/public_url) |
+| **SAP Certified - Integration Developer** (C_CPI) | SAP | 📚 In preparation |
 | **Positioning SAP Business AI Platform** (C_BCBTP) | SAP | 📚 In preparation |
 | **Lean Six Sigma – Green Belt** | FM2S | ✅ |
 | **Power BI – Advanced** | Udemy | ✅ |
