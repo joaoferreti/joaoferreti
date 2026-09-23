@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-ferreti-lippi-0576091bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:joaovitorferretilippi@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
-  <a href="LINK_CREDLY"><img src="https://img.shields.io/badge/SAP%20Certified-C__IBP__2601-0070F2?style=for-the-badge&logo=sap&logoColor=white" alt="C_IBP_2601"/></a>
+  <a href="https://www.credly.com/badges/d9bc8668-8192-402f-af12-b6ebb3bb1437/public_url"><img src="https://img.shields.io/badge/SAP%20Certified-C__IBP__2601-0070F2?style=for-the-badge&logo=sap&logoColor=white" alt="C_IBP_2601"/></a>
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@ Conhecimento prático no contexto de integração com o IBP: projetos, tasks e d
 
 | Certificação | Emissor | Status |
 |---|---|---|
-| **SAP Certified – SAP Integrated Business Planning** (C_IBP_2601) | SAP | ✅ 09/2026 • [Credencial](LINK_CREDLY) |
+| **SAP Certified – SAP Integrated Business Planning** (C_IBP_2601) | SAP | ✅ 09/2026 • [Credencial](https://www.credly.com/badges/d9bc8668-8192-402f-af12-b6ebb3bb1437/public_url) |
 | **Positioning SAP Business AI Platform** (C_BCBTP) | SAP | 📚 Em preparação |
 | **Lean Six Sigma – Green Belt** | FM2S | ✅ |
 | **Power BI – Avançado** | Udemy | ✅ |
