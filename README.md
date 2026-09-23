@@ -27,7 +27,7 @@
 <!-- ████████████████████████  PORTUGUÊS  ████████████████████████ -->
 
 <a name="pt"></a>
-# 🇧🇷 Português
+# <img src="https://github.com/danmadeira/bandeira-nacional-em-php" width="32"> Português
 
 ## 👨‍💼 Sobre mim
 
