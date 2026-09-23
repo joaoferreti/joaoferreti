@@ -27,7 +27,7 @@
 <!-- ████████████████████████  PORTUGUÊS  ████████████████████████ -->
 
 <a name="pt"></a>
-# <img src="https://github.com/danmadeira/bandeira-nacional-em-php" width="32"> Português
+# <img src="[https://github.com/danmadeira/bandeira-nacional-em-php](https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original)" width="32"> Português
 
 ## 👨‍💼 Sobre mim
 
